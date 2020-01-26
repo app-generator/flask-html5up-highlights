@@ -10,8 +10,6 @@ Unopinionated Flask Boilerplate generated with [automation tools](https://github
 
 <br />
 
-<br />
-
 ## Want more? Go PRO!
 
 PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
